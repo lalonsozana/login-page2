@@ -24,3 +24,57 @@
   font-size: 14px;
   outline: none;
 }
+}
+.statistics {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 1103px;
+  top: 79px;
+}
+.merchandise {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 868px;
+  top: 79px;
+}
+.registration {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 630px;
+  top: 79px;
+}
+.registration2 {
+  color: #000000;
+  text-align: center;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 96px;
+  font-weight: 400;
+  position: absolute;
+  left: 414px;
+  top: 278px;
+  width: 586px;
+  height: 103px;
